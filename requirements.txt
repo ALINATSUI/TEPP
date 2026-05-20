@@ -1,0 +1,5 @@
+Pandas
+Requests
+Matplotlib
+Jupyter
+Python-dotenv
