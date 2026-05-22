@@ -8,9 +8,9 @@ Since we have seen a lot of the questions related to shopping, as well as the co
 1. Alina Tsui - Technical Lead
 2. Oussama Fathi - Team Lead
 3. Ye Morris - Data Analyst
-4. Lofinda Beynis- Data Analyst
-5. Shaida - Data Analyst
-6. Khadija - Coordinator/Analyst
+4. Lofinda Beynis - Data Analyst
+5. Shaina Smith - Data Analyst
+6. Khadija Bangura- Coordinator/Analyst
 
 ## Availabilities and Schedule
 
