@@ -24,6 +24,7 @@ Weekend Team:
 -Khadija Bangura
 -Ye morris
 -Shaina Smith
+-Lofinda Beynis
 
 Sync Meeting:
 -Thursday Post Carreer class
