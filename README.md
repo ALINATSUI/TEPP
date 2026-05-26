@@ -1,48 +1,68 @@
-### Project Headline
+# Project Overview
 
-The project is about analyzing questions related to tiqets, prices, and shows in NYC.
-Since we have seen a lot of the questions related to shopping, as well as the common interest of 
-some team members about tiqets, shows, and questions like how to find cheap tickets the team chose this project.
+The project is about analyzing questions related to tiquets, prices, and shows in NYC.
+Since we have seen a lot of the questions related to shopping, as well as the common interest of team members about different sports shows, venues and exploring a relatively challenging dataset the choice was made to work on this project collectively.
 
-### Team Members & Roles
+## Team Members & Roles
 
-Alina Tsui - Technical Lead
-Oussama Fathi - Team Lead
-Ye Morris - Data Cleaning
-Lofinda Beynis- Data Analyst
-Shaida - Data Analyst
-Khadija - Coordinator
+1. Alina Tsui - Technical Lead
+2. Oussama Fathi - Team Lead
+3. Ye Morris - Data Analyst
+4. Lofinda Beynis - Data Analyst
+5. Shaina Smith - Data Analyst
+6. Khadija Bangura- Coordinator/Analyst
 
-### Availabilities Schedule
+## Availabilities and Schedule
 
-Thursday/Friday Team:
--Alina Tsui
--Oussama Fathi
--Khadija Bangura
+- Thursday/Friday Team:
+  - Alina Tsui
+  - Oussama Fathi
+  - Khadija Bangura
 
-Weekend Team:
--Khadija Bangura
--Ye morris
--Shaina Smith
+- Weekend Team:
+  - Khadija Bangura
+  - Ye morris
+  - Shaina Smith
+  - Lofinda Beynis
 
-Sync Meeting:
--Thursday Post Carreer class
+- Meetings:
+  - Friday Meeting with Instructor
+  - Friday Meeting with Instructor
 
-### Questions
+### Dataset Overview Questions
 
-## What does your dataset explore?
+### What does your dataset explore?
 
-The dataset explore all kinds of information related to art shows, tiquets, prices, types of tiquets etc.
+This dataset explores how Ticketmaster event ticket price ranges vary based on event characteristics such as location, venue, category, and date.  
+The goal is to analyze pricing patterns across concerts, artist performances, and sports events.
+We are looking into the possibility of analyzing prices, but if not enough data is available we might also choose other items for analysis.
 
-## What is your dependent variable in the data you are pulling from?
+### What is your dependent variable in the data you are pulling from?  
 
-Dependent variable will be price
-Is this variable categorical or quantitative?
+The dependent variable is the ticket price for each event, taken from the `priceRanges` field in the Event Details endpoint.  
+This can be represented as either `min_price` or `max_price` for each event.
 
-## What are your independent variables?
+## Is this variable categorical or quantitative?
 
-## Are these variables quantitative or categorical? (you should have a good mix of both types, i.e. not all categorical)
+The dependent variable is quantitative because it contains numeric price values.  
+This makes it appropriate for regression analysis and price prediction.
 
-## How many independent variables do you have? (you should have more than 5 independent variables)
+### What are your independent variables? 
 
-## How large is your dataset? (it should be larger than 1000 rows, but the more the better the powerLinks to an external site.)
+The independent variables include city, state, country, genre, event date, venue, source, and days until the event.  
+These variables are used to explain differences in ticket prices between events.
+
+## Are these variables quantitative or categorical?
+
+The dataset includes both categorical and quantitative independent variables.  
+City, venue, genre, and source are categorical, while days until event and distance can be quantitative.
+
+### How many independent variables do you have?
+
+The dataset has more than 5 independent variables.  
+A typical version of the dataset can include 8 to 10 predictors, which provides enough variation for EDA and predictive modeling.
+
+### How large is your dataset?
+
+The dataset can be expanded to more than 1,000 rows by paging through event search results and combining multiple API queries.  
+The Ticketmaster Discovery API covers a large number of events, so building a dataset large enough for analysis is realistic.
