@@ -3,6 +3,8 @@
 Project Update:
 Due to lack of data within the tiqetmaster API, where the team wasn't able to get price related information we decided to pivot with using a dataset on Kaggle about the gaming industry.
 
+Check out the dataset on [Kaggle](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
+
 ## Team Members & Roles
 
 1. Alina Tsui - Technical Lead
