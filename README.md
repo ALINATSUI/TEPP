@@ -1,7 +1,7 @@
 # Gaming Industry Trends Dataset
 
 Project Update:
-Due to lack of data within the Ticketmaster API, where the team wasn't able to get price related information we decided to pivot with using a dataset on Kaggle about the gaming industry.
+Due to lack of data within the Ticketmaster API, where the team wasn't able to get price related information we received approval to pivot over to an alternate Kaggle dataset on the gaming industry.
 
 Check out the dataset on [Kaggle](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
@@ -39,7 +39,7 @@ This dataset looks at different video games and some trends in the gaming indust
 
 ### What is the dependent variable?
 
-The dependent variable I would use is - Revenue (Millions $)- because it shows how much money each game made.
+The dependent variable I would use is - Revenue (Millions $)- because it shows the revenue each game generated.
 
 ### Is this variable categorical or quantitative?
 
