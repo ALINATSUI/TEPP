@@ -1,3 +1,10 @@
+## 🗂️ Files
+- **`api.ipynb`** Start here to view API calls and pandas dataframe
+- **`notebooks/alina.ipynb`** Individual notebook for exploratory data analysis
+- requirements.txt
+- .gitignore
+   
+
 # Gaming Industry Trends Dataset
 
 Project Update:
