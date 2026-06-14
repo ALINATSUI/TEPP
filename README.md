@@ -1,6 +1,6 @@
 ## 🗂️ Files
 - **`api.ipynb`** Start here to view API calls and pandas dataframe
-- **`notebooks/alina.ipynb`** Individual notebook for exploratory data analysis
+- **`notebooks/alina_eda.ipynb`** Individual notebook for exploratory data analysis
 - requirements.txt
 - .gitignore
    
