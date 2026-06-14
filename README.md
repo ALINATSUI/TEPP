@@ -14,22 +14,6 @@ Check out the dataset on [Kaggle](https://www.kaggle.com/datasets/haseebindata/g
 5. Shaina Smith - Data Analyst
 6. Khadija Bangura- Coordinator/Analyst
 
-## Availabilities and Schedule
-
-- Thursday/Friday Team:
-  - Alina Tsui
-  - Oussama Fathi
-  - Khadija Bangura
-
-- Weekend Team:
-  - Khadija Bangura
-  - Ye morris
-  - Shaina Smith
-  - Lofinda Beynis
-
-- Meetings:
-  - Friday Meeting with Instructor
-  - Friday Meeting with Instructor
 
 ## Dataset Overview
 
